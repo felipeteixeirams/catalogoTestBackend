@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Felipe\\Documents\\Projetos\\catalogoLivros\\catalogoLivros\\catalogoLivros\\catalogoLivros.csproj",
+      "projectUniqueName": "C:\\Users\\Felipe\\Desktop\\BackendTest\\catalogoLivros\\catalogoLivros.csproj",
       "projectName": "catalogoLivros",
-      "projectPath": "C:\\Users\\Felipe\\Documents\\Projetos\\catalogoLivros\\catalogoLivros\\catalogoLivros\\catalogoLivros.csproj",
+      "projectPath": "C:\\Users\\Felipe\\Desktop\\BackendTest\\catalogoLivros\\catalogoLivros.csproj",
       "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Felipe\\Documents\\Projetos\\catalogoLivros\\catalogoLivros\\catalogoLivros\\obj\\",
+      "outputPath": "C:\\Users\\Felipe\\Desktop\\BackendTest\\catalogoLivros\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
