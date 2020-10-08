@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felipe\\Desktop\\BackendTest\\catalogBooks\\catalogBooks\\catalogBooks.csproj": {}
+    "C:\\Users\\Felipe\\Desktop\\BackendTest\\catalogBooks\\catalogBooks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felipe\\Desktop\\BackendTest\\catalogBooks\\catalogBooks\\catalogBooks.csproj": {
+    "C:\\Users\\Felipe\\Desktop\\BackendTest\\catalogBooks\\catalogBooks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felipe\\Desktop\\BackendTest\\catalogBooks\\catalogBooks\\catalogBooks.csproj",
+        "projectUniqueName": "C:\\Users\\Felipe\\Desktop\\BackendTest\\catalogBooks\\catalogBooks.csproj",
         "projectName": "catalogBooks",
-        "projectPath": "C:\\Users\\Felipe\\Desktop\\BackendTest\\catalogBooks\\catalogBooks\\catalogBooks.csproj",
+        "projectPath": "C:\\Users\\Felipe\\Desktop\\BackendTest\\catalogBooks\\catalogBooks.csproj",
         "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felipe\\Desktop\\BackendTest\\catalogBooks\\catalogBooks\\obj\\",
+        "outputPath": "C:\\Users\\Felipe\\Desktop\\BackendTest\\catalogBooks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json.Schema": {
+              "target": "Package",
+              "version": "[3.0.13, )"
             }
           },
           "imports": [

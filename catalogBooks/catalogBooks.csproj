@@ -5,12 +5,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Src\ConvertJson.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Newtonsoft.Json.Schema" Version="3.0.13" />
   </ItemGroup>
 
   <ItemGroup>
